@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mental-math/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/mental-math/static/js/main.ad283c48.chunk.js",
-    "main.js.map": "/mental-math/static/js/main.ad283c48.chunk.js.map",
-    "runtime-main.js": "/mental-math/static/js/runtime-main.3480b4bd.js",
-    "runtime-main.js.map": "/mental-math/static/js/runtime-main.3480b4bd.js.map",
-    "static/css/2.11b85609.chunk.css": "/mental-math/static/css/2.11b85609.chunk.css",
-    "static/js/2.e363f157.chunk.js": "/mental-math/static/js/2.e363f157.chunk.js",
-    "static/js/2.e363f157.chunk.js.map": "/mental-math/static/js/2.e363f157.chunk.js.map",
-    "index.html": "/mental-math/index.html",
-    "precache-manifest.f25491325b319b61a1309fa50d849ec5.js": "/mental-math/precache-manifest.f25491325b319b61a1309fa50d849ec5.js",
-    "service-worker.js": "/mental-math/service-worker.js",
-    "static/css/2.11b85609.chunk.css.map": "/mental-math/static/css/2.11b85609.chunk.css.map",
-    "static/css/main.27fd15f6.chunk.css.map": "/mental-math/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.e363f157.chunk.js.LICENSE": "/mental-math/static/js/2.e363f157.chunk.js.LICENSE",
-    "static/media/dx.material.blue.dark.css": "/mental-math/static/media/dxiconsmaterial.ade00e8f.ttf"
+    "main.css": "./static/css/main.27fd15f6.chunk.css",
+    "main.js": "./static/js/main.50a513e1.chunk.js",
+    "main.js.map": "./static/js/main.50a513e1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f64bebb5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f64bebb5.js.map",
+    "static/css/2.de364899.chunk.css": "./static/css/2.de364899.chunk.css",
+    "static/js/2.e363f157.chunk.js": "./static/js/2.e363f157.chunk.js",
+    "static/js/2.e363f157.chunk.js.map": "./static/js/2.e363f157.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a685db115edf67e26108347c308bca43.js": "./precache-manifest.a685db115edf67e26108347c308bca43.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.de364899.chunk.css.map": "./static/css/2.de364899.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "./static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.e363f157.chunk.js.LICENSE": "./static/js/2.e363f157.chunk.js.LICENSE",
+    "static/media/dx.material.blue.dark.css": "./static/media/dxiconsmaterial.ade00e8f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3480b4bd.js",
-    "static/css/2.11b85609.chunk.css",
+    "static/js/runtime-main.f64bebb5.js",
+    "static/css/2.de364899.chunk.css",
     "static/js/2.e363f157.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.ad283c48.chunk.js"
+    "static/js/main.50a513e1.chunk.js"
   ]
 }
